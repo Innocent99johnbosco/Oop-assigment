@@ -1,0 +1,3 @@
+ICT,innocent, 1,000,000/=
+Microbiology,Grace, 8,000,000/=
+pediatric,mr chindemba, 3,000,000/=
